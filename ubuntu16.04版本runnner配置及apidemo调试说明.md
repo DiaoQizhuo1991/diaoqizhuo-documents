@@ -31,6 +31,7 @@ ___________
 3. 进入/home/username/yunos目录,输入./apidemo即可执行(如果没有执行,请看下一条),按ctrl+c可关闭程序.
 
 4. 如果运行不成功,那么证明,你跟我一样缺少libicu52库,请在钉钉下载libicu52_52.1-8ubuntu0.2_amd64.deb并安装.
+<<<<<<< HEAD
   ```linux
   sudo dpkg -i libicu52_52.1-8ubuntu0.2_amd64.deb
   ```
